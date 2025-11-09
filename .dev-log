@@ -41,3 +41,5 @@
 [2026-06-04T14:00:00] feat: add channel description and topic editing by admins
 
 [2026-06-09T11:30:00] fix: resolve WebSocket reconnection on network drop
+
+[2025-11-09T15:30:00] feat: setup Socket.io server with JWT socket middleware
