@@ -13,3 +13,5 @@
 [2026-02-20T10:38:00] feat: implement optimistic UI updates
 [2026-03-11T10:04:00] chore: update dependencies to latest stable versions
 [2026-04-13T12:00:00] docs: add architecture diagram to README
+
+[2025-11-09T15:30:00] feat: setup Socket.io server with JWT socket middleware
