@@ -15,3 +15,5 @@
 [2026-04-13T12:00:00] docs: add architecture diagram to README
 
 [2025-11-09T15:30:00] feat: setup Socket.io server with JWT socket middleware
+
+[2025-12-05T10:30:00] feat: implement channel and DM message persistence in MongoDB
