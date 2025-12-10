@@ -44,3 +44,4 @@
 
 [2025-11-09T15:30:00] feat: setup Socket.io server with JWT socket middleware
 [2025-12-05T10:30:00] feat: implement channel and DM message persistence in MongoDB
+[2025-12-10T14:15:00] feat: add real-time typing indicators with debouncing
