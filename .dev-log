@@ -19,3 +19,5 @@
 [2025-12-05T10:30:00] feat: implement channel and DM message persistence in MongoDB
 
 [2025-12-10T14:15:00] feat: add real-time typing indicators with debouncing
+
+[2026-01-07T10:00:00] feat: add Redis Pub/Sub for multi-instance presence sync
