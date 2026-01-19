@@ -6,3 +6,4 @@
 [2025-11-29T19:15:00] perf: memoize expensive computations with useMemo
 [2025-11-29T18:24:00] feat: add error boundary with fallback UI
 [2025-12-19T16:56:00] docs: add architecture diagram to README
+[2026-01-19T16:56:00] feat: add dark mode support
