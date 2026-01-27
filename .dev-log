@@ -8,3 +8,4 @@
 [2025-12-19T16:56:00] docs: add architecture diagram to README
 [2026-01-19T16:56:00] feat: add dark mode support
 [2026-01-23T18:18:00] feat: add unit tests for utility functions
+[2026-01-27T19:01:00] fix: improve error messages for API failures
