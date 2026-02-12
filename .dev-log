@@ -25,3 +25,5 @@
 [2026-01-12T13:45:00] feat: implement file and image upload with Cloudinary
 
 [2026-02-06T10:30:00] feat: add emoji reaction picker with toggle support
+
+[2026-02-12T13:00:00] feat: implement infinite scroll with cursor-based pagination
