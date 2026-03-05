@@ -27,3 +27,5 @@
 [2026-02-06T10:30:00] feat: add emoji reaction picker with toggle support
 
 [2026-02-12T13:00:00] feat: implement infinite scroll with cursor-based pagination
+
+[2026-03-05T14:15:00] feat: add browser push notifications for @mentions
