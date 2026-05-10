@@ -53,3 +53,4 @@
 [2026-03-11T10:00:00] perf: add message debouncing to reduce socket event frequency
 [2026-04-10T13:00:00] feat: implement message search across channel history
 [2026-05-05T14:15:00] feat: add message pinning in channels for important updates
+[2026-05-10T11:00:00] refactor: migrate to Zustand immer middleware for state
