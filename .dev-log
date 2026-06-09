@@ -39,3 +39,5 @@
 [2026-05-10T11:00:00] refactor: migrate to Zustand immer middleware for state
 
 [2026-06-04T14:00:00] feat: add channel description and topic editing by admins
+
+[2026-06-09T11:30:00] fix: resolve WebSocket reconnection on network drop
